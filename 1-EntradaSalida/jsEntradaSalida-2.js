@@ -7,7 +7,7 @@ var nombre;
 
 nombre = prompt ("Ingrese su nombre");
 
-alert(nombre);
+alert("su nombre es " + nombre);
 
 	
 }
