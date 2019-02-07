@@ -10,7 +10,6 @@ var num2;
 var res1;
 
 num1 = parseInt (document.getElementById("numeroUno").value); 
-
 num2 = parseInt (document.getElementById("numeroDos").value);
 
 res1 = num1 + num2

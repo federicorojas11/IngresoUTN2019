@@ -24,8 +24,8 @@ function restar()
     var result;
 
 
-    num1 = parseInt (document.getElementById("numeroUno").value);
-    num2 = parseInt (document.getElementById("numeroDos").value);
+    num1 =  (document.getElementById("numeroUno").value);
+    num2 =  (document.getElementById("numeroDos").value);
     
 result = num1 - num2;
 
@@ -42,8 +42,8 @@ function multiplicar()
     var result;
 
 
-    num1 = parseInt (document.getElementById("numeroUno").value);
-    num2 = parseInt (document.getElementById("numeroDos").value);
+    num1 =  (document.getElementById("numeroUno").value);
+    num2 =  (document.getElementById("numeroDos").value);
     
 result = num1 * num2;
 
@@ -59,8 +59,8 @@ function dividir()
     var result;
 
 
-    num1 = parseInt (document.getElementById("numeroUno").value);
-    num2 = parseInt (document.getElementById("numeroDos").value);
+    num1 =  (document.getElementById("numeroUno").value);
+    num2 =  (document.getElementById("numeroDos").value);
     
 result = num1 / num2;
 
